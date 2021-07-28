@@ -14,6 +14,8 @@ setx SENDGRID_API_KEY "YOUR_API_KEY"
 Linux/Mac
 
 echo "export SENDGRID_API_KEY='YOUR_API_KEY'" > sendgrid.env
+<br>
 echo "sendgrid.env" >> .gitignore
+<br>
 source ./sendgrid.env
 
