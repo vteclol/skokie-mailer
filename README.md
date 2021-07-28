@@ -1,7 +1,7 @@
 # skokie-mailer
 send spoofed emails via sendgrid through discord bot
 
-Windows
+# Windows
 
 Temporarily set the environment variable(accessible only during the current cli session):
 
@@ -11,7 +11,7 @@ Permanently set the environment variable(accessible in all subsequent cli sessio
 
 setx SENDGRID_API_KEY "YOUR_API_KEY"
 
-Linux/Mac
+# Linux/Mac
 
 echo "export SENDGRID_API_KEY='YOUR_API_KEY'" > sendgrid.env
 <br>
