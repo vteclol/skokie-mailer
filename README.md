@@ -25,7 +25,7 @@ Getting Ready:
 ```python3 main.py```
 <br>
 <br>
-I recommend running it behind screen or something so you can close your SSH Client and have it running in the background.
+I recommend running it behind screen/tmux or something so you can close your SSH Client and have it running in the background.
 
 
 # Windows
