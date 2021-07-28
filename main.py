@@ -2,10 +2,10 @@ import datetime
 import socket
 import discord
 import requests
-from discord.ext import commands
 import os
-from sendgrid import SendGridAPIClient
 import sendgrid
+from discord.ext import commands
+from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 
 prefix = '>'
