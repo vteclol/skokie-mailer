@@ -46,3 +46,6 @@ Permanently set the environment variable(accessible in all subsequent cli sessio
 <br>
 ```source ./sendgrid.env```
 
+# Authentication
+
+Add your own Discord ID's @ Gangsters in main.py
