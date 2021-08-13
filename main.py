@@ -12,7 +12,7 @@ prefix = '>'
 bot = commands.Bot(help_command=None, command_prefix=prefix)
 
 # Add your own Discord IDS
-Gangsters = [796455044891410452, 836177255948222504, 352292720301047808]
+Gangsters = [123, 456, 789]
 
 @bot.event
 async def on_ready():
